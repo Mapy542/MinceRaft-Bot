@@ -19,3 +19,4 @@ tp,Trustee,Teleported *par1 to *par2 , *par3 , *par4
 msg,User,*par2 sent to *par1
 time,User,Set time to *par2
 weather,User,Set weather to *par1 for *par2 seconds
+say,Admin,Broadcasting to server.
