@@ -1,0 +1,3 @@
+Bot=bot tolken
+Server=guild iD
+Path=bedrock server folder required to find output logs for /list

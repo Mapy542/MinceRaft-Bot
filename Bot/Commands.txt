@@ -1,0 +1,21 @@
+command,permission,return  (perms = Admin, Trustee, User, Guest) Minnimum permission required to execute, return is posted to the channel. *par1* is the first user parameter after command and so on
+alwaysday,User,Alwaysday set to *par1
+clear,Admin,Cleared inventory of *par1
+deop,Admin,Deopped *par1
+difficulty,Trustee,Set difficulty to *par1
+effect,Trustee,Added effect *par3 to *par1 for *par2 seconds
+enchant,Trustee,Enchanted *par1 with *par2 level *par3
+gamemode,Trustee,Set gamemode of *par2 to *par1
+gamerule,Trustee,Set gamerule *par1 to *par2
+give,Admin,Gave *par1 *par3 *par2
+kick,Trustee,Kicked *par1 for *par2
+kill,Trustee,Killed *par1
+op,Admin,Opped *par1
+replaceitem,Admin,Replaced item in *par1 with *par2
+setworldspawn,Trustee,Set world spawn to *par1 , *par2 , *par3
+stop,Admin,Server stopping
+summon,Admin,Summoned *par1 at *par2 , *par3 , *par4
+tp,Trustee,Teleported *par1 to *par2 , *par3 , *par4
+msg,User,*par2 sent to *par1
+time,User,Set time to *par2
+weather,User,Set weather to *par1 for *par2 seconds
