@@ -1,5 +1,5 @@
 command,permission,return  (perms = Admin, Trustee, User, Guest) Minnimum permission required to execute, return is posted to the channel. *par1* is the first user parameter after command and so on
-alwaysday,User,Alwaysday set to *par1
+alwaysday,Admin,Alwaysday set to *par1
 clear,Admin,Cleared inventory of *par1
 deop,Admin,Deopped *par1
 difficulty,Trustee,Set difficulty to *par1
