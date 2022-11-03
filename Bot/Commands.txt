@@ -3,7 +3,7 @@ alwaysday,Admin,Alwaysday set to *par1
 clear,Admin,Cleared inventory of *par1
 deop,Admin,Deopped *par1
 difficulty,Trustee,Set difficulty to *par1
-effect,Trustee,Added effect *par3 to *par1 for *par2 seconds
+effect,Trustee,Added effect *par2 to *par1 for *par3 seconds at level *par4
 enchant,Trustee,Enchanted *par1 with *par2 level *par3
 gamemode,Trustee,Set gamemode of *par2 to *par1
 gamerule,Trustee,Set gamerule *par1 to *par2
@@ -19,4 +19,4 @@ tp,Trustee,Teleported *par1 to *par2 , *par3 , *par4
 msg,User,*par2 sent to *par1
 time,User,Set time to *par2
 weather,User,Set weather to *par1 for *par2 seconds
-say,Admin,Broadcasting to server.
+say,Admin,Broadcasting to server
